@@ -2,7 +2,7 @@
 
 ### Aspiring SOC Analyst | Blue Team | SIEM & Log Analysis
 
-🌐 **[Explore my cybersecurity portfolio](https://sumit-saini-security.shivamrajput6654.chatgpt.site)** — investigations, project case studies and resume.
+🌐 **[Explore my cybersecurity portfolio](https://sumitsaini-sec.github.io)** — investigations, project case studies and resume.
 
 I am a BCA student specialising in Cybersecurity and AI. I am building practical skills in Security Operations Center (SOC) workflows, log analysis, threat detection, vulnerability assessment, and incident response.
 
@@ -49,6 +49,6 @@ To begin my career as a SOC Analyst and help organisations detect, investigate, 
 
 ## 📫 Connect With Me
 
-* Portfolio: [Security investigations & projects](https://sumit-saini-security.shivamrajput6654.chatgpt.site)
-* Resume: [View / download PDF](https://sumit-saini-security.shivamrajput6654.chatgpt.site/resume/Sumit-Saini-SOC-Analyst-Resume.pdf)
+* Portfolio: [Security investigations & projects](https://sumitsaini-sec.github.io)
+* Resume: [View / download PDF](https://sumitsaini-sec.github.io/resume/Sumit-Saini-SOC-Analyst-Resume.pdf)
 * LinkedIn: [Sumit Saini](https://www.linkedin.com/in/sumit-sec125)
