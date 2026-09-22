@@ -28,13 +28,25 @@ I am a BCA student specialising in Cybersecurity and AI. I am building practical
 * Linux
 * GitHub
 
-## 🧪 Hands-on Projects
+## 🧪 Featured Security Projects
 
-* **Reconnaissance and Vulnerability Scanning Lab**
-  Performed authorised port and service enumeration using Nmap and web vulnerability scanning using Nikto against an isolated Metasploitable 2 VMware lab.
+1. **[SOC L1 Investigation Lab](https://github.com/sumitsaini-sec/SOC-L1-investigation-lab)**  
+   Interactive SOC investigation lab focused on alert triage, SIEM-style analysis, incident investigation and escalation workflows.
 
-* **SIEM Log Monitoring and Threat Detection Lab**
-  Building a Splunk-based SIEM lab to analyse Windows and Sysmon logs, investigate suspicious activity, and create detection rules.
+2. **[Vulnerability Assessment – Metasploitable 2](https://github.com/sumitsaini-sec/vulnerability-assessment-metasploitable2)**  
+   Authorised vulnerability assessment using Nmap and Nikto in an isolated Metasploitable 2 VMware lab.
+
+3. **[Advanced Packet Sniffer & ARP Spoofing Detector](https://github.com/sumitsaini-sec/advanced-packet-sniffer-arp-spoofing-detector)**  
+   Python-based network monitoring project for packet inspection and ARP spoofing detection.
+
+4. **[Basic Antivirus Simulation](https://github.com/sumitsaini-sec/basic-antivirus-simulation)**  
+   Python signature-based scanner that detects known file hashes, quarantines suspicious files and generates scan reports.
+
+5. **[Encryption & Decryption Tool](https://github.com/sumitsaini-sec/encryption-decryption-tool)**  
+   Python security project demonstrating encryption, decryption and secure data-handling concepts.
+
+6. **[Cybersecurity Portfolio](https://github.com/sumitsaini-sec/sumitsaini-sec.github.io)**  
+   Personal SOC / cybersecurity portfolio featuring projects, investigations, skills and resume.
 
 ## 📚 Continuous Learning
 
